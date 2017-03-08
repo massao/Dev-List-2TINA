@@ -12,6 +12,7 @@ List of websites about development
 - [Medium](http://medium.com/) (Needs to search a little, has really good content.)
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 - [Codepen](http://codepen.io/)
+- [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 
 ## Data
 
