@@ -48,3 +48,18 @@ List of websites about development
 - [PostCSS](http://postcss.org/) (CSS transformer with JS)
 - [AngularJS](http://angularjs.org/) (JS Framework)
 - [React](http://facebook.github.io/react/) (JS Framework)
+- [BabelJs](https://babeljs.io/) (ES2015+ transpiler)
+
+## Package managers
+
+- [NPM](https://www.npmjs.com/)
+- [Yarn](https://yarnpkg.com/pt-BR/)
+- [JSPM](http://jspm.io/)
+
+## Task Runners and Bundlers
+
+- [WebPack](http://webpack.github.io/)
+- [Grunt](http://gruntjs.com/)
+- [Gulp](http://gulpjs.com/)
+- [Brunch](http://brunch.io/)
+
