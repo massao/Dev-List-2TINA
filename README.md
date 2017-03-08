@@ -10,6 +10,8 @@ List of websites about development
 - [Brasil UX Design](http://brasil.uxdesign.cc/)
 - [Meetup](http://www.meetup.com/pt-BR/) (List of meetups based on interest)
 - [Medium](http://medium.com/) (Needs to search a little, has really good content.)
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+- [Codepen](http://codepen.io/)
 
 ## Data
 
