@@ -65,3 +65,12 @@ List of websites about development
 - [Gulp](http://gulpjs.com/)
 - [Brunch](http://brunch.io/)
 
+## Jobs Listing
+
+- [Front-end Vagas](https://www.facebook.com/groups/213564108815633/) (Facebook Group)
+- [FrontEnd Vagas](https://www.facebook.com/groups/frontendvagas/) (Facebook Group)
+- [FrontEndBR/vagas](https://github.com/frontendbr/vagas/issues) (Github repository - Front-end)
+- [UX Jobs](https://www.facebook.com/groups/uxjobs/) (Facebook Group)
+- [PHPDevBR/Vagas](https://github.com/phpdevbr/vagas/issues) (Github repository - PHP)
+- [CocoaHeadsBrasil/Vagas](https://github.com/CocoaHeadsBrasil/vagas/issues) (Github repository - iOS)
+- [AndroidDevBR/Vagas](https://github.com/androiddevbr/vagas/issues) (Github repository - Android)
