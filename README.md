@@ -13,6 +13,7 @@ List of websites about development
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 - [Codepen](http://codepen.io/)
 - [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
+- [Scotch](https://school.scotch.io/courses) (Some free courses)
 
 ## Data
 
