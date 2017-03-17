@@ -74,3 +74,8 @@ List of websites about development
 - [PHPDevBR/Vagas](https://github.com/phpdevbr/vagas/issues) (Github repository - PHP)
 - [CocoaHeadsBrasil/Vagas](https://github.com/CocoaHeadsBrasil/vagas/issues) (Github repository - iOS)
 - [AndroidDevBR/Vagas](https://github.com/androiddevbr/vagas/issues) (Github repository - Android)
+
+## Linux
+
+- [DioLinux](http://www.diolinux.com.br/)
+- [Viva o Linux](https://www.vivaolinux.com.br/)
